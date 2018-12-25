@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "easy-tabs-solution",
+    "libraryId": "a18a0be9-d65e-452b-a457-3de937753355",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

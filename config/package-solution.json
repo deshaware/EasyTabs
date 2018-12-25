@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "easy-tabs-solution-client-side-solution",
+    "id": "a18a0be9-d65e-452b-a457-3de937753355",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/easy-tabs-solution.sppkg"
+  }
+}
