@@ -1,6 +1,6 @@
 import { SPHttpClient } from "@microsoft/sp-http";
 export interface IEasyTabsWebpartProps {
-  listName: string;
+  tabName: string;
   order: string;
   numberOfItems: number;
   style: string;
